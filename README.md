@@ -55,4 +55,4 @@ GitHub merge conflicts, State/City API and logic for drop down menus, routes for
 
 ## Questions
 
-Feel free to check out our GitHub repo: https://github.com/dpbam/shake-on-it
+Feel free to check out our GitHub repo: https://github.com/freezenleo/shake-on-it-2
