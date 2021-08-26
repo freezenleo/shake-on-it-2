@@ -28,7 +28,7 @@ npm install. This application requires the following NPM modules:
 
 ## Usage
 
-Run from Heroku: https://nameless-taiga-03231.herokuapp.com/
+Run from Heroku: https://fast-earth-46141.herokuapp.com/
 
 ## Tools Used
 
